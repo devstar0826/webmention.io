@@ -6,8 +6,8 @@ GEM
       i18n (~> 0.7)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.5.1)
-      public_suffix (~> 2.0, >= 2.0.2)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     backports (3.8.0)
     celluloid (0.17.3)
       celluloid-essentials
@@ -100,7 +100,7 @@ GEM
     nokogumbo (1.1.12)
       nokogiri
     ntlm-http (0.1.1)
-    public_suffix (2.0.5)
+    public_suffix (4.0.6)
     rack (2.0.3)
     rack-protection (2.0.0)
       rack
